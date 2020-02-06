@@ -2,9 +2,9 @@ module.exports = {
   siteMetadata: {
     title: `Hugh's home`,
     description: `blog test`,
-    author: `Hugh`,
+    author: `Hugh Shangguan`,
   },
-  pathPrefix:"/note2",
+  // pathPrefix:"/note2",
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
