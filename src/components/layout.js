@@ -68,7 +68,7 @@ const TemplateWrapper = ({ children }) => {
               }}
             >
               
-              <div style={{ flex: 1 }}>{children}</div>
+              <div style={{ flex: 2.5 }}>{children}</div>
             </div>
           ) : (
             <div
