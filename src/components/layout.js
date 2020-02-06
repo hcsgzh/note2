@@ -26,6 +26,7 @@ const Sidebar = props => (
     }}
   >
     <strong>{props.title}.</strong> {props.description}
+    {props.link&&<span><br/><a href={props.link.url}>{props.link.label}</a></span>}
   </div>
 )
 const TemplateWrapper = ({ children }) => {
@@ -91,10 +92,12 @@ const TemplateWrapper = ({ children }) => {
                 <Sidebar
                   title="Hugh (Zhaohui) Shangguan"
                   description="I am a Full-stack Web Developer specializing in React and Node.js based in NZ. Articles on React, Node.js and stories about me and my family. All articles are written by Me."
+                  link = {{url: 'https://hcsgzh.github.io/portfolio/', label: 'Portfolio'}}
                 />
                 <Sidebar
                   title="About my family"
                   description="I have a lovely wife who is a Traditional Chinese Doctor and corrently works in a Hospital in Beijing. My son is 9 years-old and stay with my in NZ. We are passionately and eagerly waitting for getting together of a bright life in NZ. "
+                  link = {{url: 'https://hcsgzh.github.io/portfolio/', label: 'Family Story'}}
                 />
               </div>
             </div>
