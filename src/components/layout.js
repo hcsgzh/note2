@@ -87,14 +87,14 @@ const TemplateWrapper = ({ children }) => {
                 {children}
               </div>
               <div style={{ flex: 1 }}>
-                
+            
                 <Sidebar
-                  title="Hugh Shangguan"
-                  description="Articles on React and Node.js. All articles are written by Me. Fullstack Web Development."
+                  title="Hugh (Zhaohui) Shangguan"
+                  description="I am a Full-stack Web Developer specializing in React and Node.js based in NZ. Articles on React, Node.js and stories about me and my family. All articles are written by Me."
                 />
                 <Sidebar
-                  title="About author"
-                  description="I am a Full-stack Web Developer specializing in React and Node.js based in NZ."
+                  title="About my family"
+                  description="I have a lovely wife who is a Traditional Chinese Doctor and corrently works in a Hospital in Beijing. My son is 9 years-old and stay with my in NZ. We are passionately and eagerly waitting for getting together of a bright life in NZ. "
                 />
               </div>
             </div>
