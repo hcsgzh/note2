@@ -34,7 +34,7 @@ import React from "react"
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      background: "#f5f5f5",
+      background: "#fafafa",
       marginBottom: "3rem",
       borderBottom: "2px solid #e6e6e6",
     }}
