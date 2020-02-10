@@ -10,3 +10,5 @@ He seems to be a little bit nervous and excited. I dropped him and my mother int
 I hope Terry will have a great day today!
 
 Today's weather is very hot, 36 degree. But there will be a swiming class in the afternoon for Terry. I think he will love it!
+
+![Awesome image](./firstday_01.jpg)
