@@ -40,7 +40,12 @@ const TemplateWrapper = ({ children }) => {
     }
   `)
   return (
-  <div>
+  <div
+   style={{
+    position: "relative",
+    minHeight: '100vh',
+   }}
+  >
     <Header siteTitle={data.site.siteMetadata.title} />
     <div
       style={{
@@ -104,6 +109,30 @@ const TemplateWrapper = ({ children }) => {
           )
         }
       </Media>
+    </div>
+
+    /** footer */
+    <div
+      style={{
+        background: "#fafafa",
+        paddingTop: '1rem',
+        borderTop: "1px solid #e6e6e6",
+        display: 'flex',
+        alignItems: 'center',
+        flexDirection: 'column',
+        position: 'absolute',
+        bottom: '0',
+        width: '100%',
+      }}
+    >
+      <p >
+        <span>
+          &copy; {1900 + new Date().getYear()}{" "}
+          <a href="\intro" >
+            Hugh
+          </a>, made with security data cloud service
+        </span>
+      </p>
     </div>
   </div>
 )}
