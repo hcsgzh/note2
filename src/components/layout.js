@@ -102,7 +102,7 @@ const TemplateWrapper = ({ children }) => {
                 <Sidebar
                   title="About my family"
                   description="I have a lovely wife, Juanling He, who is a Traditional Chinese Doctor and corrently works at a Hospital in Beijing. My son, Terry Shangguan, is 9 years-old and stay with my in NZ. We are passionately and eagerly waitting for getting together of a bright life in NZ. "
-                  link = {{url: 'https://hcsgzh.github.io/portfolio/', label: 'Family Story'}}
+                  link = {{url: "\\familyStory", label: 'Family Story'}}
                 />
               </div>
             </div>
@@ -128,9 +128,9 @@ const TemplateWrapper = ({ children }) => {
       <p >
         <span>
           &copy; {1900 + new Date().getYear()}{" "}
-          <a href="\intro" >
+          <a href="\" >
             Hugh
-          </a>, made with security data cloud service
+          </a>
         </span>
       </p>
     </div>
