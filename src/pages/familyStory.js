@@ -28,10 +28,10 @@ const SecondPage = () => (
     </p>
     <h2>Life is not easy</h2>
     <p>
-    I went to back to visit my wife and my son during Chrismas holiday 2019. We drove from Beijing to our hometown to see my parents and my parents-in-law. The distance is about 900 km between the two palces. When I drove back to Beijing to catch the flight to NZ. There was a snowfall which covered ranges from my hometown to Beijing. The highway was shutdown and we had no choice but went to small country roads. It was too slippy and we had a car accident. Luckly, no body hurted. We stayed over night in a small town, ZhangZi. Next day we carried on and passed the mountain area and arrived Beijing at the night. I catched the flight on time next day. Through this situation, my wife and I felt that we really want to be together! No matter what, we will be together as a family!
+    I went to back to visit my wife and my son during Christmas holiday 2019. We drove from Beijing to our hometown to see my parents and my parents-in-law. The distance is about 900 km between the two palces. When I drove back to Beijing to catch the flight to NZ. There was a snowfall which covered ranges from my hometown to Beijing. The highway was shutdown and we had no choice but went to small country roads. It was too slippy and we had a car accident. Luckly, no body hurted. We stayed over night in a small town, ZhangZi. Next day we carried on and passed the mountain area and arrived Beijing at the night. I catched the flight on time next day. Through this situation, my wife and I felt that we really want to be together! No matter what, we will be together as a family!
     </p>
     <p>
-    I hope we will get our recident visa in the beganning of 2020 and we will be together very soon!
+    I hope we will get our resident visa in the beginning of 2020 and we will be together very soon!
     </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
