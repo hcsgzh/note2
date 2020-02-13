@@ -111,7 +111,7 @@ const TemplateWrapper = ({ children }) => {
       </Media>
     </div>
 
-    /** footer */
+    
     <div
       style={{
         background: "#fafafa",
