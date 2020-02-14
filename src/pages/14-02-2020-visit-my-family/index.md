@@ -35,11 +35,11 @@ Next day, it was to time to go airport and catch the flight to Auckland. However
 
 ### Coronavirus
 
-20 days later, when I arrived in NZ, the coronavirus broke out in Hebei in China. It was Chinese New Year holidays. People were on the way to visit their families. I missed and worried a lot about my wife. Especially, my wife is a Traditional Chinese Median Doctor. She has to go to work everyday. There is no way to protect her from the virus. I could not think more. Just pray for her! 
+20 days later, when I arrived in NZ, the coronavirus broke out in Hebei in China. It was Chinese New Year holidays. People were on the way to visit their families. I missed and worried a lot about my wife. Especially, my wife is a Traditional Chinese Medicine Doctor. She has to go to work everyday. There is no way to protect her from the virus. I could not think more. Just pray for her! 
 
 My son naturally misses his mother and keeps asking when his mom will come and join us.
 
-In the valentine's Day, my wife, I hope you are well and We will be together soon!
+On the valentine's Day, my wife, I hope you are well and We will be together soon!
 
 Where is home? I think where family is in where is our home, where we could enjoy our life. I hope our resident visa will come to rescue us.
 
